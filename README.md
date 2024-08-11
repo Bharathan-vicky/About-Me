@@ -1,5 +1,5 @@
 
-# Hi there, I'm Bharathan Rajkumar 👋<img height="50" width="50" src=<a href="https://www.flaticon.com/free-icons/verified" title="verified icons">Verified icons created by Mohamed Mbarki - Flaticon</a>
+# Hi there, I'm Bharathan Rajkumar 👋<img height="50" width="50" src=<"https://www.flaticon.com/free-icons/verified" title="verified icons">
 >
 
 Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and repositories. I’m passionate about Software Engineering, and I love to work on projects that involve Web application and mobile.
