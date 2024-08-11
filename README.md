@@ -29,7 +29,7 @@ Here are some of my recent projects:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Your Name's GitHub Stats](![Bharathan-vicky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathan-vicky&theme=vue-dark&hide_border=true))
 
 ## 📊 Most Used Languages
 
