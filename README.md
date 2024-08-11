@@ -31,6 +31,12 @@ Here are some of my recent projects:
 
 !(![Bharathan-vicky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathan-vicky&theme=vue-dark&hide_border=true))
 
+## Leetcode 
+
+!(![Profile](!(![Bharathan-vicky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathan-vicky&theme=vue-dark&hide_border=true))
+))
+
+
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
