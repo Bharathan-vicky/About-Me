@@ -1,7 +1,7 @@
-# About-Me
-# Hi there, I'm [Bharathan Rajkumar] 👋
 
-Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and repositories. I’m passionate about [Software Engineering], and I love to work on projects that involve [Web application and mobile].
+# Hi there, I'm Bharathan Rajkumar 👋
+
+Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and repositories. I’m passionate about Software Engineering, and I love to work on projects that involve Web application and mobile.
 
 ## 🚀 About Me
 
@@ -37,8 +37,10 @@ Here are some of my recent projects:
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [Linked_In](www.linkedin.com/in/bharathan-rajkumar-346a10259
+
+)
+- [X](https://x.com/BharathanVicky)
 - [Personal Website](https://your-website.com)
 
 ## 📝 Blog Posts
