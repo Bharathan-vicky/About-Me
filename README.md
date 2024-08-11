@@ -1,21 +1,23 @@
 
-# Hi there, I'm Bharathan Rajkumar 👋
+# Hi there, I'm Bharathan Rajkumar 👋<img height="50" width="50" src=<a href="https://www.flaticon.com/free-icons/verified" title="verified icons">Verified icons created by Mohamed Mbarki - Flaticon</a>
+>
 
 Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and repositories. I’m passionate about Software Engineering, and I love to work on projects that involve Web application and mobile.
 
 ## 🚀 About Me
 
-- 🔭 I’m studying on [Mobile]
+- 🔭 I’m studying on Master on computers application
 - 🌱 learning New Technologies or Skills
-- 👯 I’m looking to collaborate on [Types of Projects]
-- 🤔 I’m looking for help with [Specific Area or Challenge]
-- 💬 Ask me about [Topics You’re Knowledgeable About]
-- 📫 How to reach me: [Bharathanvicky@gmail.com]
+- 👯 I’m looking to collaborate on  Projects
+- 🤔 I’m looking for help with Specific Area or Challenge
+- 💬 Ask me about Topics You’re Knowledgeable About
+- 😄 Pronouns: Techie
+- 📫 How to reach me: Bharathanvicky@gmail.com
 
 ## 🛠️ I code in
 
 -  <img height="50" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img height="50" width="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img height="50" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="50" width="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img height="50" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-- **Web Technologies:** [List Technologies, e.g., React, Node.js, HTML/CSS]
+## 🛠️Web Technologies:** [List Technologies, e.g., React, Node.js, HTML/CSS]
 - **Tools & Platforms:** [List Tools, e.g., Git, Docker, AWS]
 - **Databases:** [List Databases, e.g., MySQL, MongoDB]
 
