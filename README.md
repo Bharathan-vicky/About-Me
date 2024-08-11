@@ -5,8 +5,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Mobile]
-- 🌱 I’m currently learning [New Technologies or Skills]
+- 🔭 I’m studying on [Mobile]
+- 🌱 learning New Technologies or Skills
 - 👯 I’m looking to collaborate on [Types of Projects]
 - 🤔 I’m looking for help with [Specific Area or Challenge]
 - 💬 Ask me about [Topics You’re Knowledgeable About]
@@ -29,7 +29,7 @@ Here are some of my recent projects:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](![Bharathan-vicky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathan-vicky&theme=vue-dark&hide_border=true))
+!(![Bharathan-vicky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathan-vicky&theme=vue-dark&hide_border=true))
 
 ## 📊 Most Used Languages
 
@@ -37,9 +37,7 @@ Here are some of my recent projects:
 
 ## 🤝 Connect with Me
 
-- [Linked_In](www.linkedin.com/in/bharathan-rajkumar-346a10259
-
-)
+- [Linked_In](www.linkedin.com/in/bharathan-rajkumar-346a10259)
 - [X](https://x.com/BharathanVicky)
 - [Personal Website](https://your-website.com)
 
