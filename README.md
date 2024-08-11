@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ## 🛠️ Skills
 
-- **Programming Languages:** [List Languages, e.g., Python, JavaScript, C++]
+- **Programming Languages:** ![Skills Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Web Technologies:** [List Technologies, e.g., React, Node.js, HTML/CSS]
 - **Tools & Platforms:** [List Tools, e.g., Git, Docker, AWS]
 - **Databases:** [List Databases, e.g., MySQL, MongoDB]
