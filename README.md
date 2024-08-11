@@ -33,8 +33,8 @@ Here are some of my recent projects:
 
 ## Leetcode 
 
-!(![Profile](!(![Bharathan-vicky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathan-vicky&theme=vue-dark&hide_border=true))
-))
+![Leetcode card](https://leetcard.jacoblin.cool/Bharathan-vicky?theme=dark&font=Marcellus&ext=heatmap))
+
 
 
 ## 📊 Most Used Languages
