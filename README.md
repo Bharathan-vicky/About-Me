@@ -1,8 +1,11 @@
 
-# Hi there, I'm Bharathan Rajkumar 👋 - <img height="50" width="50" src="https://img.icons8.com/badges/48/000000/approval.png"title="verified icons">
+# Hi there, I'm Bharathan Rajkumar 👋
+
 
 
 Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and repositories. I’m passionate about Software Engineering, and I love to work on projects that involve Web application and mobile.
+
+<img align="right" width="50" height="50" src="https://img.icons8.com/badges/48/000000/approval.png">
 
 ## 🚀 About Me
 
