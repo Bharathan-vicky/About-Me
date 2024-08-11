@@ -12,9 +12,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 - 💬 Ask me about [Topics You’re Knowledgeable About]
 - 📫 How to reach me: [Bharathanvicky@gmail.com]
 
-## 🛠️ Skills
+## 🛠️ I code in
 
-- **Programming Languages:** ![Skills Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Programming Languages:** <img height="50" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 - **Web Technologies:** [List Technologies, e.g., React, Node.js, HTML/CSS]
 - **Tools & Platforms:** [List Tools, e.g., Git, Docker, AWS]
 - **Databases:** [List Databases, e.g., MySQL, MongoDB]
