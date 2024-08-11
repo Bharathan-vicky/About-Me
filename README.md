@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ## 🛠️ I code in
 
-- **Programming Languages:** <img height="50" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+-  <img height="50" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img height="50" width="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img height="50" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="50" width="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img height="50" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 - **Web Technologies:** [List Technologies, e.g., React, Node.js, HTML/CSS]
 - **Tools & Platforms:** [List Tools, e.g., Git, Docker, AWS]
 - **Databases:** [List Databases, e.g., MySQL, MongoDB]
