@@ -57,7 +57,7 @@ Here are some of my recent projects:
 
 - [Linked_In](www.linkedin.com/in/bharathan-rajkumar-346a10259)
 - [X](https://x.com/BharathanVicky)
-- [Personal Website](https://github.com/Bharathan-vicky/Bharathan-Rajkumar/edit/main/README.md)
+- [Personal Website](https://bharathanvicky.netlify.app/)
 
 
 
